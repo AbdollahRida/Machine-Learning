@@ -17,10 +17,10 @@ A simple linear regression implementing the data preprocessing template. It has 
 A simple multilinear regression implementing the data preprocessing template. It has been written to analyze the Start-ups data provided in the folder. 
 
 ## Polynomial Regression 
-A simple polynomial regression implementing the data preprocessing template. It has been written to analyze the Position Salaries data provided in the folder. It's **_NOT_** working at the current moment.
+A simple polynomial regression implementing the data preprocessing template. It has been written to analyze the Position Salaries data provided in the folder.
 
 ## Twitter Sentiment Analysis
-An attempt to use the [tweepy](http://www.tweepy.org/) and [textblob](http://textblob.readthedocs.io/en/dev/index.html) to retrieve tweets (through the twitter API) concerning certain queries. It then saves the tweets in a csv and processes the data to tell us what people think about these queries.
+An attempt to use the [tweepy](http://www.tweepy.org/) and [textblob](http://textblob.readthedocs.io/en/dev/index.html) to retrieve tweets (through the twitter API) concerning certain queries. It then saves the tweets in a csv and processes the data to tell us what people think about these queries. It's **_NOT_** working at the current moment (I made some changes long ago and I have to review the whole code to understand the problem).
 * **queries**: List of Strings defining the queries. Just change the values to what you want to analyze.
 * **hashtag**: String. Refines your search by only selecting the tweets with this hashtag.
 * **Since/Until**: String. Defines the time period where you want to search for tweets.
