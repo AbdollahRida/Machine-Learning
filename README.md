@@ -9,6 +9,15 @@ A python (& R) template to preprocess your data before running any ML algorithm.
   * Encodes your categorical data using the scikit-learn OneHotEncoder
   * Splits the dataset into training and test sets
   * Scales your features
+ 
+## Linear Regression 
+A simple linear regression implementing the data preprocessing template. It has been written to analyze the Salary data provided in the folder. 
+
+## Multilinear Regression 
+A simple multilinear regression implementing the data preprocessing template. It has been written to analyze the Start-ups data provided in the folder. 
+
+## Polynomial Regression 
+A simple polynomial regression implementing the data preprocessing template. It has been written to analyze the Position Salaries data provided in the folder. 
   
 
 
